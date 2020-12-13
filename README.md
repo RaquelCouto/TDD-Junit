@@ -30,7 +30,7 @@ Criamos dois objetos do tipo produto, os cadastramos e chamamos a função de li
 ![Imagem5](https://github.com/RaquelCouto/TDD-Junit/blob/main/Imagens/04-Main.PNG)
 ![Imagem6](https://github.com/RaquelCouto/TDD-Junit/blob/main/Imagens/04-Test.PNG)
 
-Como o teste passou, seguimos para outro teste e continuamos nesse ritmo até finalizar os requisitos: <span style="background-color: #FFFF00">implementar o teste > ver ele falhar > fazer a implementação do código fonte > executar o teste novamente</span>, caso passe, partir para outro requisito. A implementação completa dos testes e dos métodos pode ser vistas nas imagens a seguir:
+Como o teste passou, seguimos para outro teste e continuamos nesse ritmo até finalizar os requisitos: <span style="background-color: #FFFF00">implementar o teste > ver ele falhar > fazer a implementação do código fonte > executar o teste novamente</span>, caso passe, partir para outro requisito. A implementação completa dos testes e dos métodos podem ser vistas nas imagens a seguir:
  
 ![Imagem7](https://github.com/RaquelCouto/TDD-Junit/blob/main/Imagens/10-Main.PNG)
 ![Imagem8](https://github.com/RaquelCouto/TDD-Junit/blob/main/Imagens/10-Test.PNG)
