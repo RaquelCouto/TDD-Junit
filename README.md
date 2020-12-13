@@ -8,6 +8,8 @@
 
 Após criar um novo projeto no Eclipse, clicar com botão direito no projeto > propriedades > Java Build Path > Libraries > Add Library > Junit4 > Next > Junit4 > Finish > Apply and Close, como demonstrado na figura a seguir:
 
+![Junit](https://github.com/RaquelCouto/TDD-Junit/blob/main/Imagens/addJunit.png)
+
 # Criando classes e testes
 
  
